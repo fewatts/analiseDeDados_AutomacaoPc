@@ -45,4 +45,3 @@ Atts Python''')
 pyperclip.copy(relatorio)
 pyautogui.hotkey('ctrl', 'v')
 pyautogui.click(x=1277, y=919, clicks=2)
-#tudo OKKKKKKKKKKKKKKKKKKKKKK
