@@ -7,7 +7,7 @@ opção = 0
 continuar = ''
 aberto = ''
 
-def memoria():
+def memory():
     pyautogui.hotkey('win', 'r')
     pyautogui.write('%temp%')
     pyautogui.hotkey('enter')
