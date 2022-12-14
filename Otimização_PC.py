@@ -16,6 +16,7 @@ def memoria():
     sleep(3)
     pyautogui.hotkey('ctrl', 'a')
     pyautogui.hotkey('delete')
+    sleep(4)
     pyautogui.hotkey('up')
     pyautogui.hotkey('enter')
     pyautogui.hotkey('down')
