@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Fernando Alves de Paula</h1>
 <h3 align="center">A passionate back-end developer/data analysis from suzano-SP</h3>
 
-- 🌱 I’m currently learning **C, Python, data analysis with Pandas, numpy and matplotlib**
+- 🌱 I’m currently learning Back-end and some data analysis **C, Python, Pandas, numpy and matplotlib**
 
 - 📫 How to reach me **feralveswatts@gmail.com**
 
@@ -19,6 +19,6 @@
 
 
 <!---
-fewatts/fewatts is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+fewatts/projects is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 You can click the Preview link to take a look at your changes.
 --->
